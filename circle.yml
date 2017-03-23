@@ -4,4 +4,4 @@ machine:
     version: 7.0.4
 test:
   override:
-    - ./paratest
+    - ./paralell-test
